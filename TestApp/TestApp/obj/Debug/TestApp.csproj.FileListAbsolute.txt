@@ -1,0 +1,15 @@
+C:\Users\KOTA\source\repos\test2\TestApp\TestApp\bin\Debug\TestApp.exe.config
+C:\Users\KOTA\source\repos\test2\TestApp\TestApp\bin\Debug\TestApp.exe
+C:\Users\KOTA\source\repos\test2\TestApp\TestApp\bin\Debug\TestApp.pdb
+C:\Users\KOTA\source\repos\test2\TestApp\TestApp\obj\Debug\TestApp.csprojAssemblyReference.cache
+C:\Users\KOTA\source\repos\test2\TestApp\TestApp\obj\Debug\MainWindow.g.cs
+C:\Users\KOTA\source\repos\test2\TestApp\TestApp\obj\Debug\App.g.cs
+C:\Users\KOTA\source\repos\test2\TestApp\TestApp\obj\Debug\TestApp_MarkupCompile.cache
+C:\Users\KOTA\source\repos\test2\TestApp\TestApp\obj\Debug\TestApp_MarkupCompile.lref
+C:\Users\KOTA\source\repos\test2\TestApp\TestApp\obj\Debug\MainWindow.baml
+C:\Users\KOTA\source\repos\test2\TestApp\TestApp\obj\Debug\TestApp.g.resources
+C:\Users\KOTA\source\repos\test2\TestApp\TestApp\obj\Debug\TestApp.Properties.Resources.resources
+C:\Users\KOTA\source\repos\test2\TestApp\TestApp\obj\Debug\TestApp.csproj.GenerateResource.cache
+C:\Users\KOTA\source\repos\test2\TestApp\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
+C:\Users\KOTA\source\repos\test2\TestApp\TestApp\obj\Debug\TestApp.exe
+C:\Users\KOTA\source\repos\test2\TestApp\TestApp\obj\Debug\TestApp.pdb
